@@ -1,0 +1,1 @@
+Fitted kernel: 0.0316**2 * RBF(length_scale=16.1)

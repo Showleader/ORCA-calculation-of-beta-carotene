@@ -1,0 +1,2 @@
+Fitted function:
+f(x) = 0.000428 * x * exp(-0.020613 * x)

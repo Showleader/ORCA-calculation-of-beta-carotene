@@ -1,0 +1,4 @@
+Shortest steps from small circle 1 to large circle: 10
+Sample random walk steps: 28
+Average steps of random walk: 105.71
+Ratio (Random steps/Shortest steps): 10.57
